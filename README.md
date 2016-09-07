@@ -10,7 +10,6 @@ ajouter un fichier ou des fichiers     ---> git add README.md
 
 initier un commit et le décrire		        git commit -m "first commit"
 
-ajouter ce commit à github 		   	   --->	git remote add origin https://github.com/username
-dans le bon repository     		      		/blablabla.git
+ajouter ce commit à github dans le bon repository 		   	   --->	git remote add origin https://github.com/username/blablabla.git
 
 L'envoyer sur la branche principale    ---> git push -u origin master
